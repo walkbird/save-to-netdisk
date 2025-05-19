@@ -1,2 +1,4 @@
-# save-to-netdisk
-save webpage to netdisk
+# 这是什么？
+这是一个可以网页内容保存到网盘的插件。
+插件使用的场景：
+- Chrome等Chromium内核的浏览器，均可以安装这个插件，一键保存到网盘特定的目录。
